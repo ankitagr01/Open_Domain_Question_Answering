@@ -1,3 +1,6 @@
+__author__ = "Ankit Agrawal"
+__email__ = "s8anagra@stud.uni-saarland.de"
+
 import nltk
 nltk.download('punkt')
 from functools import reduce

@@ -1,3 +1,6 @@
+__author__ = "Ankit Agrawal"
+__email__ = "s8anagra@stud.uni-saarland.de"
+
 import numpy as np
 import matplotlib.pyplot as plt
 import os
