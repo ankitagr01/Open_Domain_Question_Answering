@@ -1,0 +1,6 @@
+Total training images taken: 21567
+Total test images taken: 8616
+Calculating Mean and std now for total images: 30183
+Array Shape: (30183, 384, 384, 3)
+Mean: [0.41134835 0.4711178  0.52917066]
+Standard deviation: [0.27897327 0.28242878 0.2923866 ]

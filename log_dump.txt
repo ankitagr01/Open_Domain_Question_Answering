@@ -1,0 +1,56 @@
+no. of images processed currently:  21800
+class: 21 Post_Impressionism
+total_images_present: 6451
+total images taken: 1400
+train_size 1000
+test_size 400
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1400/1400 [00:33<00:00, 41.36it/s]
+no. of images processed currently:  23200
+class: 22 Realism
+total_images_present: 10733
+total images taken: 1400
+train_size 1000
+test_size 400
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1400/1400 [00:26<00:00, 52.00it/s]
+no. of images processed currently:  24600
+class: 23 Rococo
+total_images_present: 2089
+total images taken: 1400
+train_size 1000
+test_size 400
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1400/1400 [00:39<00:00, 35.05it/s]
+no. of images processed currently:  26000
+class: 24 Romanticism
+total_images_present: 7019
+total images taken: 1400
+train_size 1000
+test_size 400
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1400/1400 [00:31<00:00, 44.89it/s]
+no. of images processed currently:  27400
+class: 25 Symbolism
+total_images_present: 4528
+total images taken: 1400
+train_size 1000
+test_size 400
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1400/1400 [00:32<00:00, 42.69it/s]
+no. of images processed currently:  28800
+class: 26 Synthetic_Cubism
+total_images_present: 216
+total images taken: 216
+train_size 155
+test_size 61
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 216/216 [00:03<00:00, 54.31it/s]
+no. of images processed currently:  29016
+class: 27 Ukiyo_e
+total_images_present: 1167
+total images taken: 1167
+train_size 834
+test_size 333
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1167/1167 [00:58<00:00, 20.11it/s]
+no. of images processed currently:  30183
+Total training images taken: 21567
+Total test images taken: 8616
+length of final train dict data value 442368
+length of final test dict data value 442368
+pickle is generated inside
+(base) root@f801e0d402ca:/src#
